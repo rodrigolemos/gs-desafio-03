@@ -4,7 +4,7 @@
 
 Nesse desafio foi criada uma aplicação para treinar o que foi disponibilizado até o desafio 03 do bootcamp GoStack, da Rocketseat!
 
-Essa será uma aplicação feita em React Native para listar informações da API criada no **[desafio 01](https://github.com/rodrigolemos/bootcamp-desafio-01).** e dar "likes" nos itens exibidos.
+Essa será uma aplicação feita em React Native para listar informações da API criada no **[desafio 01](https://github.com/rodrigolemos/bootcamp-desafio-01)** e dar "likes" nos itens exibidos.
 
 ### Funcionalidades da aplicação
 
